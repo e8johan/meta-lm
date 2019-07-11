@@ -1,0 +1,24 @@
+This README file contains information on the contents of the meta-lm layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+None (or poky)
+
+Patches
+=======
+
+Maintainer: Johan Thelin <e8johan@gmail.com>
+
+Table of Contents
+=================
+
+  I. Adding the meta-lm layer to your build
+
+
+I. Adding the meta-lm layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-lm'
